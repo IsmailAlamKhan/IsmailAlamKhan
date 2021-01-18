@@ -13,9 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-  <img align="right" alt="GIF" src="https://www.appliedsynergy.tech/images/gifs/mobile-app-tab2.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://www.appliedsynergy.tech/images/gifs/mobile-app-tab2.gif" width="400" height="300" />
   
 **Languages and Tools I use:**  
 
@@ -29,11 +27,11 @@
 
 📊 **This Week I Spent My Time On:**
 
-[![Best Repo](https://github-readme-stats.vercel.app/api/wakatime?username=ismailalam&show_icons=true&theme=material-palenight&repo=flutter_model_helper&&show_owner=true)](https://github.com/IsmailAlamKhan/flutter_model_helper)
+![Best Repo](https://github-readme-stats.vercel.app/api/wakatime?username=ismailalam&show_icons=true&theme=material-palenight&repo=flutter_model_helper&&show_owner=true)
 
 👨‍💻 **My Top Languages**
 
-[![Best Repo](https://github-readme-stats.vercel.app/api/top-langs?username=IsmailAlamKhan&show_icons=true&theme=material-palenight&repo=flutter_model_helper&layout=compact&show_owner=true)](https://github.com/IsmailAlamKhan/flutter_model_helper)
+![Best Repo](https://github-readme-stats.vercel.app/api/top-langs?username=IsmailAlamKhan&show_icons=true&theme=material-palenight&repo=flutter_model_helper&layout=compact&show_owner=true)
 
 
 📈 **My GitHub Stats**
