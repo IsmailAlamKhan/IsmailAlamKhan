@@ -13,10 +13,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="GIF" src="https://www.appliedsynergy.tech/images/gifs/mobile-app-tab2.gif" width="400" height="300" />
-  
+<br/>
 **Languages and Tools I use:**  
-
+<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -25,17 +24,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-
-📊 **This Week I Spent My Time On:**
-
+<br/>
+**This Week I Spent My Time On:**
+<br/>
 ![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=ismailalam&show_icons=true&theme=material-palenight&repo=flutter_model_helper&&show_owner=true)
-
-👨‍💻 **My Top Languages**
-
+<br/>
+**My Top Languages**
+<br/>
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=IsmailAlamKhan&show_icons=true&theme=material-palenight&repo=flutter_model_helper&layout=compact&show_owner=true)
-
-📈 **My GitHub Stats**
-
+<br/>
+**My GitHub Stats**
+<br/>
 ![Ismails github stats](https://github-readme-stats.vercel.app/api?username=IsmailAlamKhan&show_icons=true&theme=material-palenight)
-
+<br/>
+**My best Repp**
+[![Best Repo](https://github-readme-stats.vercel.app/api/pin/?username=IsmailAlamKhan&show_icons=true&theme=material-palenight&repo=flutter_firebase_chat_app&show_owner=true)](https://github.com/IsmailAlamKhan/flutter_firebase_chat_app)
 
