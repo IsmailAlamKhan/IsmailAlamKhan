@@ -28,12 +28,11 @@
 
 📊 **This Week I Spent My Time On:**
 
-![Best Repo](https://github-readme-stats.vercel.app/api/wakatime?username=ismailalam&show_icons=true&theme=material-palenight&repo=flutter_model_helper&&show_owner=true)
+![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=ismailalam&show_icons=true&theme=material-palenight&repo=flutter_model_helper&&show_owner=true)
 
 👨‍💻 **My Top Languages**
 
-![Best Repo](https://github-readme-stats.vercel.app/api/top-langs?username=IsmailAlamKhan&show_icons=true&theme=material-palenight&repo=flutter_model_helper&layout=compact&show_owner=true)
-
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=IsmailAlamKhan&show_icons=true&theme=material-palenight&repo=flutter_model_helper&layout=compact&show_owner=true)
 
 📈 **My GitHub Stats**
 
