@@ -30,11 +30,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <br/>
 
-**This Week I Spent My Time On:**
-<br/>
-
-![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=ismailalam&show_icons=true&theme=material-palenight&repo=flutter_model_helper&&show_owner=true)
-<br/>
 
 **My Top Languages**
 <br/>
